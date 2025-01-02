@@ -1,5 +1,5 @@
 
-![image](https://github.com/user-attachments/assets/6ccbab25-2c7a-45ba-9937-d9b53be30942)
+![image](https://github.com/user-attachments/assets/50a05ca8-9eab-4c33-b266-b46060cbfbfe)
 
 
 # Detailed Guide for KrakenD Setup and Usage
